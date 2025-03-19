@@ -1,5 +1,5 @@
-## Olá! Meu nome é Eduardo Lupinetti Bandeira e sou um entusiasta pela área de tecnologia! 
-## Fique à vontade para ver meus repositórios e projetos. Qualquer dúvida estou à disposição 😊
+## Olá! Seja bem-vindo ao meu GitHub!
+Fique à vontade para ver meus projetos. Qualquer dúvida estou à disposição 😊
 
 ## Tecnologias e Ferramentas
 
