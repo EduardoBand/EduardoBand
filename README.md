@@ -23,7 +23,7 @@ Fique à vontade para ver meus projetos. Qualquer dúvida estou à disposição 
   <!-- HTML5 -->
   <img align="center" alt="Icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
-## Estatísticas do GitHub
+## Estatísticas do GitHub 
 
 [![Estatísticas do GitHub de seu-usuario](https://github-readme-stats.vercel.app/api?username=EduardoBand&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
