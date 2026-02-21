@@ -1,33 +1,97 @@
-## Olá! Seja bem-vindo ao meu GitHub!
-Fique à vontade para ver meus projetos. Qualquer dúvida estou à disposição 😊
+# 👋 Olá! Eu sou o Eduardo Bandeira
 
-## Tecnologias e Ferramentas
+Sou **estudante de Ciência da Computação** e **Estagiário em Engenharia de Dados na IBM**, com foco no desenvolvimento de **pipelines de dados, organização de informações e suporte a análises em ambientes cloud**.
+
+Tenho experiência prática com **Python, SQL e processamento de dados**, aplicando conceitos de **ETL, modelagem e análise exploratória** em projetos que simulam cenários reais de engenharia e análise de dados.
+
+📌 Este GitHub reúne projetos voltados à **engenharia de dados aplicada**, com atenção à clareza, organização e boas práticas.
+
+---
+
+## 🧠 Áreas de Atuação e Interesse
+- Engenharia de Dados  
+- Pipelines ETL / ELT  
+- Processamento e organização de dados  
+- SQL para análise e suporte a decisões  
+- Python para dados (Pandas, NumPy)  
+- Cloud Computing aplicado a dados  
+- Visualização e exploração de dados  
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
 
 <div style="display: inline_block"><br>
-  <!-- Python -->
-  <img align="center" alt="Icon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <!-- Pandas -->
-  <img align="center" alt="Icon-Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
-  <!-- NumPy -->
-  <img align="center" alt="Icon-NumPy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
-  <!-- Plotly -->
-  <img align="center" alt="Icon-Plotly" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg">
-  <!-- SQL -->
-  <img align="center" alt="Icon-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <!-- C# -->
-  <img align="center" alt="Icon-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <!-- JavaScript -->
-  <img align="center" alt="Icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <!-- CSS3 -->
-  <img align="center" alt="Icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <!-- HTML5 -->
-  <img align="center" alt="Icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
+  <img align="center" alt="NumPy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
+  <img align="center" alt="Plotly" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg">
+  <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
 
-## Estatísticas do GitHub 
+---
 
-[![Estatísticas do GitHub de seu-usuario](https://github-readme-stats.vercel.app/api?username=EduardoBand&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+## 📌 Projetos em Destaque
 
-## Linguagens mais utilizadas
+### ⛽ Fuel Prices ETL Pipeline  
+🔗 https://github.com/EduardoBand/fuel-prices-etl-pipeline  
 
-[![Linguagens mais utilizadas por seu-usuario](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoBand&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+Pipeline **ETL** desenvolvido para coleta, tratamento e organização de dados de preços de combustíveis, com foco em **engenharia de dados e preparação para análises**.
 
+**Principais atividades:**
+- Extração de dados de fontes brutas  
+- Limpeza, padronização e transformação  
+- Estruturação de dados para consumo analítico  
+- Organização de um fluxo ETL modular  
+
+**Tecnologias utilizadas:**
+- Python  
+- Pandas  
+- SQL  
+- GCP
+
+**Objetivo do projeto:**  
+Simular um pipeline de dados próximo à realidade de engenharia, priorizando qualidade, organização e reprodutibilidade dos dados.
+
+---
+
+### 🏥 GCP Healthcare Data Project  
+🔗 https://github.com/EduardoBand/gcp-healthcare-project  
+
+Projeto focado em **engenharia e análise de dados em ambiente cloud**, utilizando um domínio sensível (saúde) para explorar desafios reais de estruturação e processamento.
+
+**Principais atividades:**
+- Organização de dados em ambiente cloud  
+- Estruturação de datasets para análise  
+- Exploração e entendimento dos dados  
+- CI/CD 
+
+**Tecnologias utilizadas:**
+- Google Cloud Platform (GCP)  
+- Python  
+- SQL  
+- AirFlow
+
+**Objetivo do projeto:**  
+Praticar engenharia de dados em ambiente cloud, entendendo desafios comuns como organização, estruturação e preparo de dados para análises e sistemas downstream.
+
+---
+
+## 📂 O que você encontrará neste GitHub
+- Projetos de **Engenharia de Dados**  
+- Pipelines ETL e organização de dados  
+- Notebooks exploratórios e técnicos  
+- Estudos práticos com foco em dados  
+- Aplicações de programação voltadas a dados  
+
+Sempre que possível, os projetos documentam:
+- O problema abordado  
+- A arquitetura ou fluxo de dados  
+- As decisões técnicas  
+- Os aprendizados obtidos  
+
+---
