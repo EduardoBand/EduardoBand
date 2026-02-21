@@ -8,17 +8,6 @@ Tenho experiência prática com **Python, SQL e processamento de dados**, aplica
 
 ---
 
-## 🧠 Áreas de Atuação e Interesse
-- Engenharia de Dados  
-- Pipelines ETL / ELT  
-- Processamento e organização de dados  
-- SQL para análise e suporte a decisões  
-- Python para dados (Pandas, NumPy)  
-- Cloud Computing aplicado a dados  
-- Visualização e exploração de dados  
-
----
-
 ## 🛠️ Tecnologias e Ferramentas
 
 <div style="display: inline_block"><br>
@@ -42,18 +31,6 @@ Tenho experiência prática com **Python, SQL e processamento de dados**, aplica
 
 Pipeline **ETL** desenvolvido para coleta, tratamento e organização de dados de preços de combustíveis, com foco em **engenharia de dados e preparação para análises**.
 
-**Principais atividades:**
-- Extração de dados de fontes brutas  
-- Limpeza, padronização e transformação  
-- Estruturação de dados para consumo analítico  
-- Organização de um fluxo ETL modular  
-
-**Tecnologias utilizadas:**
-- Python  
-- Pandas  
-- SQL  
-- GCP
-
 **Objetivo do projeto:**  
 Simular um pipeline de dados próximo à realidade de engenharia, priorizando qualidade, organização e reprodutibilidade dos dados.
 
@@ -64,34 +41,7 @@ Simular um pipeline de dados próximo à realidade de engenharia, priorizando qu
 
 Projeto focado em **engenharia e análise de dados em ambiente cloud**, utilizando um domínio sensível (saúde) para explorar desafios reais de estruturação e processamento.
 
-**Principais atividades:**
-- Organização de dados em ambiente cloud  
-- Estruturação de datasets para análise  
-- Exploração e entendimento dos dados  
-- CI/CD 
-
-**Tecnologias utilizadas:**
-- Google Cloud Platform (GCP)  
-- Python  
-- SQL  
-- AirFlow
-
 **Objetivo do projeto:**  
 Praticar engenharia de dados em ambiente cloud, entendendo desafios comuns como organização, estruturação e preparo de dados para análises e sistemas downstream.
-
----
-
-## 📂 O que você encontrará neste GitHub
-- Projetos de **Engenharia de Dados**  
-- Pipelines ETL e organização de dados  
-- Notebooks exploratórios e técnicos  
-- Estudos práticos com foco em dados  
-- Aplicações de programação voltadas a dados  
-
-Sempre que possível, os projetos documentam:
-- O problema abordado  
-- A arquitetura ou fluxo de dados  
-- As decisões técnicas  
-- Os aprendizados obtidos  
 
 ---
