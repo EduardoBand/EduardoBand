@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Eduardo Bandeira
+# 👋 Olá! Eu sou Eduardo Bandeira
 
 Sou **estudante de Ciência da Computação** e **Estagiário em Engenharia de Dados na IBM**, com foco no desenvolvimento de **pipelines de dados, organização de informações e suporte a análises em ambientes cloud**.
 
